@@ -2,15 +2,15 @@
 
 | Creator | Link | Repository Name | Description |
 |---------|------|-----------------|-------------|
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/2-way-MQTT) | 2-way-MQTT | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/HTTPS.git) | HTTPS | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/Image-gen) | Image-gen | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-Receiver-Database) | LuxSmart-InterfaceModule-Receiver-Database | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-Receiver-MQTT) | LuxSmart-InterfaceModule-Receiver-MQTT | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-SystemInterfaceService) | LuxSmart-InterfaceModule-SystemInterfaceService | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-SystemInterfaceService-SolidState) | LuxSmart-InterfaceModule-SystemInterfaceService-SolidState | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-VirtualSerialPortService) | LuxSmart-InterfaceModule-VirtualSerialPortService | placeholder |
-| Finlay | [Link](https://github.com/Luxinar-Luxsmart/serial-port-lib) | serial-port-lib | placeholder |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/2-way-MQTT) | 2-way-MQTT | An application to allow sending of commands to the main application |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/HTTPS.git) | HTTPS | A ZeroMQ subscriber that sends data via HTTP |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/Image-gen) | Image-gen | A repository to create a custom linux image |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-Receiver-Database) | LuxSmart-InterfaceModule-Receiver-Database | A ZeroMQ subscriber that interacts with a local database |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-Receiver-MQTT) | LuxSmart-InterfaceModule-Receiver-MQTT | A ZeroMQ subscriber that sends data via MQTT |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-SystemInterfaceService) | LuxSmart-InterfaceModule-SystemInterfaceService | An application to extract data from a laser and export it safely |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-SystemInterfaceService-SolidState) | LuxSmart-InterfaceModule-SystemInterfaceService-SolidState | An application to extract data from a solid state laser and export it safely |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/LuxSmart-InterfaceModule-VirtualSerialPortService) | LuxSmart-InterfaceModule-VirtualSerialPortService | An application to act as a bridge between a legacy appliation and a laser |
+| Finlay | [Link](https://github.com/Luxinar-Luxsmart/serial-port-lib) | serial-port-lib | serial port library |
 | William | [Link](https://github.com/Luxinar-Luxsmart/AzureAuthManager) | AzureAuthManager | Azure Function for authentication system |
 | William | [Link](https://github.com/Luxinar-Luxsmart/BlobDataProcessor) | BlobDataProcessor | Azure Function for processing data from file upload |
 | William | [Link](https://github.com/Luxinar-Luxsmart/DatasetCreator) | DatasetCreator | Azure Function which contains API for dataset creator |
